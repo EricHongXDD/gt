@@ -1,6 +1,8 @@
 # bilibili_geetestV3_click
-哔哩哔哩的geetest（极验三代）点字验证JS逆向
 
+geetest（极验三代）点字验证JS逆向，可用于哔哩哔哩登录
+
+<img src="readme_pic/3.png" alt="1" style="zoom:100%;" />
 
 ## 概览
 
