@@ -4,6 +4,8 @@ geetest（极验三代）点字验证JS逆向，可用于哔哩哔哩登录
 
 <img src="readme_pic/3.png" alt="1" style="zoom:100%;" />
 
+<img src="readme_pic/4.png" alt="1" style="zoom:100%;" />
+
 ## 概览
 
 本文档概述了用于执行与Geetest点击验证码验证和SMS验证代码检索相关操作的API端点。它包括有关请求方法、所需参数和预期响应的详细信息。
