@@ -134,3 +134,18 @@ None
     "status": "OK"
   }
   ```
+## 演示
+
+### 1. 调用打码平台OCR识别点字坐标
+
+成功率达到99%,且score较高
+
+<img src="readme_pic/1.png" alt="1" style="zoom:100%;" />
+
+### 2. 调用ddddocr库识别点字坐标
+
+适用于验证码有3个汉字及以下，这种情况下成功率也较低。
+
+所以调用ddddocr的时候，推荐通过反复注册验证码来刷到2个汉字的点选验证码图片
+
+<img src="readme_pic/2.png" alt="1" style="zoom:100%;" />
